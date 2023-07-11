@@ -1,0 +1,17 @@
+{
+  "name": "add-to-cart-server",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "mongoose": "^7.3.2",
+    "nodemon": "^3.0.1",
+    "razorpay": "^2.9.0"
+  }
+}
